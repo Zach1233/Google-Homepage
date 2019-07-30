@@ -30,7 +30,7 @@ ul{
 li {
     float: left;
     display: block;
-    background-color: white;
+    background-color: rgb(211, 203, 203);
     padding: 10px;
 
 }
